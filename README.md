@@ -8,7 +8,7 @@ Por mais que eu continuo trabalhando só com Angular, por curiosidade acabei apr
 
 ## :gear: Tecnologias
 
-### :rocket: Minhas principais
+### :rocket: Principais
 
 ![typescript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
@@ -21,7 +21,7 @@ Por mais que eu continuo trabalhando só com Angular, por curiosidade acabei apr
 ![html5](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-### :computer: Outras que também tenho alguma experiência
+### :computer: Alguma experiência
 
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![php](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
