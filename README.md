@@ -4,7 +4,7 @@ Tenho 24 anos, e entrei na área de Desenvolvimento web no final de 2018, desde 
 
 Fui evoluindo minhas habilidades com a prática, trabalhando na empresa Mobile Sales.
 
-Por mais que eu continuo trabalhando só com Angular, por curiosidade acabei aprendendo outras tecnologias, em sua maioria frontend.
+Continuo trabalhando com Angular, mas por curiosidade acabei aprendendo outras tecnologias.
 
 ## :gear: Tecnologias
 
