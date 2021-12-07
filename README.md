@@ -1,6 +1,6 @@
-# Olá! 👋 sou o Douglas William Martins
+# Olá! 👋 sou Douglas William Martins
 
-Tenho 24 anos, e entrei na área de Desenvolvimento web no final de 2018, desde então fiz alguns cursos onlines, começando com uma base em HTML, CSS e JS, e então me especializei em Angular e Typescript.
+Entrei na área de Desenvolvimento web no final de 2018, desde então fiz alguns cursos onlines, começando com uma base em HTML, CSS e JS, e então me especializei em Angular e Typescript.
 
 Fui evoluindo minhas habilidades com a prática, trabalhando na empresa Mobile Sales.
 
