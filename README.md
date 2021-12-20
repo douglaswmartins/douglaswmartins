@@ -38,7 +38,6 @@ Continuo trabalhando com Angular, mas por curiosidade acabei aprendendo outras t
 ![mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![sqlite](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/jest%20-%232DC212?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 </div>
 
 ## 📱 Contatos
